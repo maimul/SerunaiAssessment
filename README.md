@@ -1,4 +1,5 @@
 # SerunaiAssessment
+### Time taken (3 hours)
 This is only for assessment. QA Engin.
 
 ## Quick Note for Last part
